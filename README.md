@@ -1,4 +1,4 @@
- 💫 About Me:
+ 💫 About Me
 I am a B.Tech graduate with a strong foundation in Full Stack Development. My expertise lies in building dynamic web applications using Python (Django, <br>) for the backend and React.js for the frontend. I am passionate about coding and problem-solving, with a keen interest in learning new technologies and improving my skills.<br><br>Currently, I am actively seeking opportunities to apply my skills in a professional environment where I can contribute to building innovative solutions and grow as a developer.
 
 
